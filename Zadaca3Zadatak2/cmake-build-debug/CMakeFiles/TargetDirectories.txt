@@ -1,0 +1,3 @@
+/Users/mirzaolovcic/Desktop/CLion Projects/NA/Zadaca3Zadatak2/cmake-build-debug/CMakeFiles/Zadaca3Zadatak2.dir
+/Users/mirzaolovcic/Desktop/CLion Projects/NA/Zadaca3Zadatak2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mirzaolovcic/Desktop/CLion Projects/NA/Zadaca3Zadatak2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
